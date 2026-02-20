@@ -1,1 +1,1 @@
-{"version":2,"defects":[],"times":{"App\\ContactServiceTest::testAddContact":0.005}}
+{"version":2,"defects":[],"times":{"App\\ContactServiceTest::testAddContact":0.006}}
